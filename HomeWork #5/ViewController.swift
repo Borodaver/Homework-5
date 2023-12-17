@@ -20,6 +20,10 @@ class ViewController: UIViewController {
 //        bla bla bla
 //        test
         
+//        func test
+//        bla bla bla
+//        test
+        
         
         //1.Написать функцию, которая принимает опциональное число и, если оно есть, умножает его на 2
         
