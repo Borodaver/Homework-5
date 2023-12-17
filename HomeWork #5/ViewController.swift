@@ -14,6 +14,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+//        Изменение
+        
+//        func test
+//        bla bla bla
+//        test
         
         
         //1.Написать функцию, которая принимает опциональное число и, если оно есть, умножает его на 2
