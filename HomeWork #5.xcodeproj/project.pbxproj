@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		825C92072B2F282F00B01ACB /* Some another file for Checksstem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825C92062B2F282F00B01ACB /* Some another file for Checksstem.swift */; };
+		825C92092B2F2CA600B01ACB /* @ file add git.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825C92082B2F2CA600B01ACB /* @ file add git.swift */; };
 		829001BB2B21C54D00AEB428 /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829001BA2B21C54D00AEB428 /* Enums.swift */; };
 		82C8E26D2B19CC870063DE6B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C8E26C2B19CC870063DE6B /* AppDelegate.swift */; };
 		82C8E26F2B19CC870063DE6B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C8E26E2B19CC870063DE6B /* SceneDelegate.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		825C92062B2F282F00B01ACB /* Some another file for Checksstem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Some another file for Checksstem.swift"; sourceTree = "<group>"; };
+		825C92082B2F2CA600B01ACB /* @ file add git.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "@ file add git.swift"; sourceTree = "<group>"; };
 		829001BA2B21C54D00AEB428 /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
 		82C8E2692B19CC870063DE6B /* HomeWork #5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HomeWork #5.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		82C8E26C2B19CC870063DE6B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				82C8E2702B19CC870063DE6B /* ViewController.swift */,
 				829001BA2B21C54D00AEB428 /* Enums.swift */,
 				825C92062B2F282F00B01ACB /* Some another file for Checksstem.swift */,
+				825C92082B2F2CA600B01ACB /* @ file add git.swift */,
 			);
 			path = "HomeWork #5";
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				825C92092B2F2CA600B01ACB /* @ file add git.swift in Sources */,
 				82C8E2712B19CC870063DE6B /* ViewController.swift in Sources */,
 				82C8E26D2B19CC870063DE6B /* AppDelegate.swift in Sources */,
 				829001BB2B21C54D00AEB428 /* Enums.swift in Sources */,
